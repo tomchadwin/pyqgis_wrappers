@@ -3,10 +3,10 @@ Common functions to be used in pyqgis and python qgis plugins
 
 **NOTE:** Just a sandbox for now.  Don't consider the API stable.
 
-These are wrappers around common pyqgis idioms that allows for faster development and hopefully removes
+These are wrappers around common pyqgis idioms that allow for faster development and hopefully remove
 some of the (sometimes) ugly C/C++ based API (read: not Python-ish)
 
-The current plan is to flesh out ideas here and then mirgate them to core QGIS as they become stable or well designed.
+The current plan is to flesh out ideas here and then migrate them to core QGIS as they become stable or well designed.
 
 What can it do so far?
 ----------------------
